@@ -1,3 +1,4 @@
+#ga mau di decompile nih:v
 from builtins import *
 from math import prod as _floor
 
