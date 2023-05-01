@@ -1,3 +1,4 @@
+# Decompile aja gapapa gw ikhlas kok:v
 from builtins import *
 from math import prod as _modulo
 
