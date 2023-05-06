@@ -1,6 +1,6 @@
 ## Brute-Force Instagram 
 #### WARNING ⚠
-###### program ini bersifat ilegal. Gunakanlah dengan bijak, Atas apapun yang terjadi pada kalian author tidak ikut campur. Dilarang keras menggunakan ini secara berlebihan. Terimakasih!
+###### program ini bersifat ilegal. Gunakanlah dengan bijak, Atas apapun yang terjadi pada kalian author tidak ikut campur. Dilarang keras menggunakan script ini secara berlebihan. Terimakasih!
 #### Kamu bisa Download Termux versi terbaru [Disini](https://f-droid.org/repo/com.termux_118.apk).
 
 #### CARA INSTALL :
