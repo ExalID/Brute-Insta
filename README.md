@@ -1,9 +1,18 @@
-# Crack instagram Premium
+## Brute-Force Instagram 
+#### WARNING ⚠
+###### program ini bersifat ilegal. Gunakanlah dengan bijak, Atas apapun yang terjadi pada kalian author tidak ikut campur. Dilarang keras menggunakan ini secara berlebihan. Terimakasih!
+#### Kamu bisa Download Termux versi terbaru [Disini](https://f-droid.org/repo/com.termux_118.apk).
 
-apt upgrade && apt update<br>
-apt install python<br>
-apt install git<br>
-git clone https://github.com/ExalID/Brute-Insta.git<br>
-cd Brute-Insta<br>
-pip install -r requirements.txt<br>
-python Run.py
+#### CARA INSTALL :
+      $apt upgrade && apt update
+      $apt install python
+      $apt install git
+      $git clone https://github.com/ExalID/Brute-Insta.git
+      $cd Brute-Insta
+      $pip install -r requirements.txt
+      $python3 Run.py
+
+#### CARA UPDATE :
+      $cd Brute-Insta
+      $git pull
+      $python3 Run.py
