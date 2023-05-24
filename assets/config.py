@@ -3,6 +3,6 @@ USN = "Mozilla/5.0 (Linux; Android 12; SM-G981U1 Build/SP1A.210812.016; wv) Appl
 SYNC = "https://i.instagram.com/api/v1/qe/sync/"
 API_USER = "https://i.instagram.com/api/v1/users/web_profile_info/?username=%s"
 API_GRAPH = "https://i.instagram.com/api/v1/friendships/"
-API_FOLLOWERS = "https://i.instagram.com/api/v1/friendships/%s/followers/?count=1000"
-API_FOLLOWING = "https://i.instagram.com/api/v1/friendships/%s/following/?count=1000"
+API_FOLLOWERS = "https://i.instagram.com/api/v1/friendships/%s/followers/?count=100"
+API_FOLLOWING = "https://i.instagram.com/api/v1/friendships/%s/following/?count=100"
 API_LOGIN = "https://i.instagram.com/api/v1/accounts/login/"
