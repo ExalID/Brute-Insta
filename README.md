@@ -2,10 +2,6 @@
 ###### program ini bersifat ilegal. Gunakanlah dengan bijak, Atas apapun yang terjadi pada kalian author tidak ikut campur. Dilarang keras menggunakan script ini secara berlebihan!
 #### Kamu bisa Download Termux versi terbaru [Disini](https://f-droid.org/repo/com.termux_118.apk).
 
-### TAMPILAN MENU :
-![IMG](https://github.com/ExalID/Brute-Insta/blob/main/assets/Screenshot%202023-05-07%20074654.png)
-### RESULT CRACK :
-![IMG](https://github.com/ExalID/Brute-Insta/blob/main/assets/WhatsApp%20Image%202023-05-07%20at%2007.35.00.jpg)
 #### CARA INSTALL :
       $apt upgrade && apt update
       $apt install python
